@@ -1,0 +1,6 @@
+[submodule "homekit-fan-proxy"]
+	path = homekit-fan-proxy
+	url = git@github.com:vbuyakov/homekit-fan-proxy.git
+[submodule "homekit-fan-proxy-ui"]
+	path = homekit-fan-proxy-ui
+	url = git@github.com:vbuyakov/homekit-fan-proxy-ui.git
